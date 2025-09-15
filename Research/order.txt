@@ -1,0 +1,11 @@
+1. 
+ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
+2.
+C:\Espressif\frameworks\esp-idf-v5.5\export.ps1
+
+3.
+idf.py reconfigure
+
+4.
+idf.py build      
