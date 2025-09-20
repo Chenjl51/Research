@@ -26,7 +26,7 @@
 - The apparel didn't restrict the range of lateral motion
 
 ### Adaptive impedance controller
-![Exoskeleton example](https://github.com/Chenjl51/Research/blob/main/images/example.png)
+![Exoskeleton example](https://github.com/Chenjl51/Research/blob/main/images/Adaptive%20impedance%20controller.png)
 
 
 
