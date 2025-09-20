@@ -20,10 +20,13 @@
 - Havard's lab recently produced an exoskeleton which performed perfectly in both assisstance and confort. But it only suited for short-term activity, and must be applied to long-period activities.
 
 ## Results
+![Exoskeleton example](https://github.com/Chenjl51/Research/blob/main/images/example.png)
+- Three IMUs
 
+- The apparel didn't restrict the range of lateral motion
 
-
-
+### Adaptive impedance controller
+![Exoskeleton example](https://github.com/Chenjl51/Research/blob/main/images/example.png)
 
 
 
