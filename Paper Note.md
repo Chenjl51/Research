@@ -27,8 +27,20 @@
 
 ### Adaptive impedance controller
 ![Exoskeleton example](https://github.com/Chenjl51/Research/blob/main/images/Adaptive%20impedance%20controller.png)
-
-
+- (a)
+- Relative Angle
+- Give a formula of relative angle, used for later analysis
+- (b)
+-  Required force for two phace
+- (c)
+- The relation between force and angular velocity(w)
+- In order to mitigate the feeling of mistriggering
+- (d)
+- Input: Angle + angular velocity (calculated by the IMU).
+- Output: A continuous and smooth assistive force value.
+- During lifting → strong assistance.
+- During lowering → light assistance.
+- During transition → smooth interpolation to ensure a natural user experience.
 
 
 
