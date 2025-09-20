@@ -1,8 +1,6 @@
-'''
+#Paper Note
 
-Paper Note
 
-'''
 Task: Specific Tasks and Diverse Tasks
 
 Rigid and soft 
@@ -17,6 +15,8 @@ Activate Task
 Complex movement in a dynamic workplace
 
 Only one research showed passive back exoskeleton can reduce pressure, and it was quickly proved that it was uncomfortable in another research.
+
+Havard's lab recently produced an exoskeleton which performed perfectly in both assisstance and confort. But it only suited for short-term activity, and must be applied to long-period activities.
 
 
 
